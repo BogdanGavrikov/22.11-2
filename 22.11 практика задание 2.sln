@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.11 практика задание 2", "22.11 практика задание 2\22.11 практика задание 2.csproj", "{62DE82AF-85D6-4F03-BBCF-08B2A7F5BA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.11 практика задание 2 диалоговое окно", "22.11 практика задание 2 диалоговое окно\22.11 практика задание 2 диалоговое окно.csproj", "{B372C552-A21D-43A0-BCAB-D314F4477B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DE82AF-85D6-4F03-BBCF-08B2A7F5BA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DE82AF-85D6-4F03-BBCF-08B2A7F5BA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DE82AF-85D6-4F03-BBCF-08B2A7F5BA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DE82AF-85D6-4F03-BBCF-08B2A7F5BA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B372C552-A21D-43A0-BCAB-D314F4477B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B372C552-A21D-43A0-BCAB-D314F4477B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B372C552-A21D-43A0-BCAB-D314F4477B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B372C552-A21D-43A0-BCAB-D314F4477B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E36D47-C572-45AF-939D-61F83FA11B82}
+	EndGlobalSection
+EndGlobal
